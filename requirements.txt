@@ -4,4 +4,4 @@ Django==3.2.22
 gunicorn==20.1.0
 psycopg2-binary==2.9.9
 typing_extensions==4.7.1
-whitenoise==4.0.0
+whitenoise==6.5.0
