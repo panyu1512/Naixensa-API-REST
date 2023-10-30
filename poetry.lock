@@ -112,11 +112,11 @@ python-versions = ">=3.7"
 
 [[package]]
 name = "psycopg2-binary"
-version = "2.9.9"
+version = "2.9.4"
 description = "psycopg2 - Python-PostgreSQL Database Adapter"
 category = "main"
 optional = false
-python-versions = ">=3.7"
+python-versions = ">=3.6"
 
 [[package]]
 name = "pyjwt"
@@ -183,7 +183,7 @@ brotli = ["brotli"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "90962ee2d578345ddb2814f25943bb331143ee380be16c827faccc54aaf06186"
+content-hash = "9cc4af8da78799a6846a8c825c1299a8ae78fda6f47c07201cc8faaeea9932cd"
 
 [metadata.files]
 asgiref = []
