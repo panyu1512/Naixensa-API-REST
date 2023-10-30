@@ -9,3 +9,4 @@ django-cors-headers==4.1.0
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.2.2
 PyJWT==2.7.0
+gunicorn==21.2.0
