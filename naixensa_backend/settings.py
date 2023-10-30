@@ -144,7 +144,8 @@ MEDIA_URL = 'media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
+    "localhost:3000",
+    "https://naixensa-backend.onrender.com",
 ]
 
 CORS_ALLOW_CREDENTIALS = True
